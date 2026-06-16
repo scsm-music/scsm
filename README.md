@@ -1,0 +1,2 @@
+# scsm
+home to SCSM
