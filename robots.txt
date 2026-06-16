@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://scsm-music.github.io/scsm/sitemap.xml

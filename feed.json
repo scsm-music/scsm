@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SCSM",
+    "description": "",
+    "home_page_url": "https://scsm-music.github.io/scsm",
+    "feed_url": "https://scsm-music.github.io/scsm/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SCSM"
+    },
+    "items": [
+        {
+            "id": "https://scsm-music.github.io/scsm/what.html",
+            "url": "https://scsm-music.github.io/scsm/what.html",
+            "title": "What?",
+            "summary": "Lorum Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget nisl sed magna imperdiet luctus et quis elit. Pellentesque ut facilisis&hellip;",
+            "content_html": "<h1>Lorum Ipsum</h1>\n<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget nisl sed magna imperdiet luctus et quis elit. Pellentesque ut facilisis orci. Nam neque turpis, suscipit gravida ex sed, pretium pellentesque metus. Curabitur sit amet laoreet nulla, ut ultricies erat. Donec at vehicula tellus. Donec a congue augue, nec cursus ligula. Nunc lacinia lectus vitae eros vulputate, id pretium velit tincidunt. Pellentesque sit amet hendrerit diam, sed rutrum mi. Nam porttitor, mi in blandit finibus, felis eros rutrum sem, in pretium eros diam sed orci. Cras a nibh mauris. Duis id nunc vitae ligula ornare finibus.<br><br>Donec lacinia felis sed consequat tempus. Sed imperdiet tellus a volutpat volutpat. Pellentesque a justo diam. In lacinia vulputate turpis, ac hendrerit purus lobortis eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras porta consectetur tortor et feugiat. Aliquam orci turpis, interdum eu tellus sit amet, gravida fermentum sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed volutpat arcu interdum ipsum auctor elementum. Nam ligula arcu, accumsan at convallis sit amet, pretium vitae metus. Fusce id elementum lectus, ac imperdiet lorem. Sed malesuada ullamcorper enim vel dapibus. Nulla sagittis metus nec dui pretium, eleifend laoreet erat fringilla.<br><br>Sed feugiat nisi justo, vel pharetra sem blandit eget. Nullam sollicitudin fermentum semper. Praesent vehicula dolor eu elit tempus tempus. Nullam quis elit ligula. Donec at metus dolor. Phasellus cursus felis et faucibus ullamcorper. Nullam quis enim nec dui cursus suscipit. Ut sed mattis orci. Nulla facilisi. Aenean ut felis et quam ultrices eleifend vel at justo. Suspendisse gravida tortor sit amet est elementum pellentesque. Maecenas sed orci convallis, venenatis ante rutrum, suscipit lectus.<br><br>Duis ultricies ac ante non fermentum. Maecenas faucibus turpis lacus, in viverra erat elementum eu. Suspendisse volutpat iaculis felis, ut bibendum lectus volutpat id. Aenean et leo in velit porta pellentesque ut eget purus. Maecenas pellentesque velit a dui bibendum, consectetur consequat urna iaculis. Morbi sagittis pharetra diam, iaculis fermentum sapien faucibus nec. Aenean elementum condimentum justo non mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent vel metus ultrices, consectetur enim ac, mattis erat. Suspendisse sed cursus lacus, accumsan laoreet nisl. Etiam nunc felis, ultricies sit amet gravida ac, tincidunt a lectus. Vestibulum aliquet libero dolor, vel rutrum nibh iaculis sed.<br><br>Fusce non congue lacus, non rhoncus diam. Mauris et urna eget est convallis pretium commodo et arcu. Vestibulum auctor pulvinar consectetur. Donec tellus magna, venenatis eu urna elementum, fermentum ultricies diam. Donec pulvinar magna faucibus, scelerisque metus vitae, interdum metus. In sed mauris nec ipsum pulvinar auctor. Fusce quis accumsan tellus. Nam vitae turpis id est euismod faucibus. Fusce interdum accumsan ex sed venenatis. Donec condimentum risus ex, a maximus nibh imperdiet eu. Morbi laoreet faucibus neque ut rhoncus. Nam bibendum neque nulla. Donec et enim scelerisque dui molestie sodales pretium ut erat. Vestibulum vehicula, diam ac blandit porta, ligula leo feugiat felis, a fringilla urna tellus eu neque. Ut lobortis, ex sed commodo iaculis, metus erat interdum dui, ut feugiat sapien turpis vel est. </p>",
+            "author": {
+                "name": "SCSM"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-16T11:10:32-07:00",
+            "date_modified": "2026-06-16T11:10:32-07:00"
+        }
+    ]
+}
